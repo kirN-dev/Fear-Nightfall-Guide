@@ -26,6 +26,14 @@
 Лаунчер запускается через ярлык
 ![image-20241202125631238](https://github.com/kirN-dev/Fear-Nightfall-Guide/blob/main/Images/image-20241202125631238.png)
 
+# Игра по сети
+
+Для игры по сети нужно скачать Radmin VPN [клац](https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe)
+Устанавливаем следуя пунктам установщика
+Отрываем программу нажимаем "+" на клавиатуре (numpud), в окно вводим имя сети и пароль
+Имя: MineWins
+Пароль: 54321
+
 # Сборка
 
 Финальный шаг, качаем сам minecraft по ссылке ниже
